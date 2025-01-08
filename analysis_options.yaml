@@ -12,7 +12,7 @@ linter:
     always_put_control_body_on_new_line: true
     annotate_overrides: true
     avoid_bool_literals_in_conditional_expressions: true
-    avoid_classes_with_only_static_members: true
+    avoid_classes_with_only_static_members: false
     avoid_empty_else: true
     avoid_field_initializers_in_const_classes: true
     avoid_function_literals_in_foreach_calls: false
